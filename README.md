@@ -1,4 +1,5 @@
-# <center>👨‍💻 Treine.me </center>
+<h1 align="center">👨‍💻 Treine.me </h1>
+
 ![Treineme](img/treineme.png)
 
 ## 💻 Sobre 
